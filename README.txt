@@ -48,7 +48,7 @@ will never be a system-wide pub-smog installation, nor any type of
 more sophisticated Python packaging.
 
 I cannot garantee that the code is correct under any circumstances of
-use; use it at your own risk (see the GPL licence); and I cannot
+use; use it at your own risk (see the GPL license); and I cannot
 provide support for the code. However, I hope this is useful for
 research and/or educational purposes.
 
